@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "name": "HandSanitizer Spray",
+    "price": 10000
+}, {
+    "id": 2,
+    "name": "HandSanitizer Gel",
+    "price": 9000
+}, {
+    "id": 3,
+    "name": "Face Shield",
+    "price": 5000
+}, {
+    "id": 4,
+    "name": "Mask",
+    "price": 2000
+}]
